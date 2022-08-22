@@ -63,7 +63,7 @@ public class FamilyService {
     Family adoptChild(Family family, Human child){
         family.addChild(child);
         if(child instanceof Man) family.getChildren().get(family.getChildren().size() - 1).setSurname(family.getFather().getSurname());
-        else family.getChildren().get(family.getChildren().size() - 1).setSurname(family.getMother().getSurname());
+        else if(child instanceof Woman) family.getChildren().get(family.getChildren().size() - 1).setSurname(family.getMother().getSurname());
         familyDao.saveFamily(family);
         return family;
     }

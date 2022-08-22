@@ -5,34 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e58bfa7-60bd-4b07-a402-999ef44e1c78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CollectionFamilyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DomesticCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Family.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FamilyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FamilyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FamilyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HumanCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IDomesticCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RoboCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Species.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Woman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FamilyServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FamilyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HumanEqualsHashCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FamilyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FamilyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +44,8 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -152,7 +127,9 @@
       <workItem from="1660665257044" duration="4815000" />
       <workItem from="1660683927503" duration="1454000" />
       <workItem from="1660721455616" duration="1992000" />
-      <workItem from="1660730274627" duration="8432000" />
+      <workItem from="1660730274627" duration="9609000" />
+      <workItem from="1660760523062" duration="1047000" />
+      <workItem from="1661162765422" duration="96000" />
     </task>
     <servers />
   </component>
